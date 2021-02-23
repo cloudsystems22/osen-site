@@ -1,0 +1,25 @@
+[debug] [2021-02-23T11:39:42.352Z] ----------------------------------------------------------------------
+[debug] [2021-02-23T11:39:42.354Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-23T11:39:42.354Z] CLI Version:   9.5.0
+[debug] [2021-02-23T11:39:42.354Z] Platform:      win32
+[debug] [2021-02-23T11:39:42.354Z] Node Version:  v14.15.0
+[debug] [2021-02-23T11:39:42.355Z] Time:          Tue Feb 23 2021 08:39:42 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2021-02-23T11:39:42.355Z] ----------------------------------------------------------------------
+[debug] [2021-02-23T11:39:42.355Z] 
+[debug] [2021-02-23T11:39:42.360Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-23T11:39:42.360Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\projetos\osen-site
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
